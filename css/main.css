@@ -19,3 +19,9 @@ h2{
     font-size: 40px;
     text-align: center;
 }
+
+h3{
+    color: fuchsia;
+    font-size: 30px;
+    text-align: right;
+}
